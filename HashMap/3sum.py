@@ -6,6 +6,8 @@ Given an integer array nums, return all the triplets
 and nums[i] + nums[j] + nums[k] == 0.
 
 Notice that the solution set must not contain duplicate triplets.
+
+Solution adapted from the discussion board
 """
 
 
