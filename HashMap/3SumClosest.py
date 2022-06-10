@@ -1,5 +1,7 @@
 """
 Leetcode Q16. 3Sum Closest
+
+3Sum 문제의 기출변형!
 """
 import math
 
