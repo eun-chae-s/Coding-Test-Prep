@@ -1,5 +1,5 @@
 """
-Idea for Leetcode #217 and #219 Contain Duplicates
+Idea for Leetcode #217 Contain Duplicates
 
 ## Leetcode #217
 
