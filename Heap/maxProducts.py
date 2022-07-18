@@ -24,8 +24,8 @@ class Solution:
             right = 2 * i + 2
             j = i
 
-            while right < n:
-                if nums[left] < nums[right]:
+            while right <= n:
+                if right < n and nums[left] < nums[right]:
                     larger = right
                 else:
                     larger = left
